@@ -3,7 +3,7 @@
 * using HTML, CSS, and ReactJs
 * ReactJs used theme:
   * function based components
-  * useStae() hook
+  * useState() hook
   * useEffect() hook
   * useRef() hook
 * there is attached picture for the application run
